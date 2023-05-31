@@ -18,4 +18,6 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 ### Let's Collaborate
-<br>
+<a href="https://twitter.com/powerAdoyi" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/bug%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
