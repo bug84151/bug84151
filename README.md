@@ -2,7 +2,7 @@
 
 <br />
 
-<code><p>I am frontend web developer passionate about building responsive and scalable we apps.</p></code>
+<code><p>I am frontend web developer passionate about building responsive and scalable web apps.</p></code>
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bug84151&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Bugs streak">
